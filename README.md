@@ -1,6 +1,8 @@
 # Echo360Shortcut
 
-### A quick and dirty chrome extension that provides common Youtube like keyboard shortcuts for controlling video on Echo360.org
+## This needs to be loaded [as an unpacked extension](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
+
+### A quick and dirty chrome extension that provides common YouTube like keyboard shortcuts for controlling video on Echo360.org
 
 This extension provides simple keyboard shortcuts for the current Echo360 video player. The shortcuts are modeled after Youtube's and are listed in the extension popup. 
 
